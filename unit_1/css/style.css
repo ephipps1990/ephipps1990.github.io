@@ -1,6 +1,13 @@
 body {
-	background-color: grey;
+	background-color: #82ABA1;
 }
 
-h1,p {
-	color: green;}
+h1,p { text-align: center;
+	color: #94FBAB;
+}
+
+li {
+	color: #A9FFF7;
+}
+
+#slogan {font-weight: 500;}
