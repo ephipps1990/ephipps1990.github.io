@@ -1,19 +1,23 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=EB+Garamond);
 
-body {background-color: #82ABA1;
- 	text-align: center;
+body {
+	background-color: #82ABA1;
 	color: #94FBAB;
 }
 
-li {color: #A9FFF7;
+li {
+	color: #A9FFF7;
 }
 
 h1 {
-	font-family: 'Montserrat', Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
 }
 
 p, li {
-	font-family: 'EB Garamond', Garamond, serif;
+	font-family: 'EB Garamond', serif;
+	font-size: 14px;
+	line-height: 1.5em;
 }
 
