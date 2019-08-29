@@ -1,0 +1,19 @@
+body {
+	background-color: #82ABA1;
+ 	text-align: center;
+	color: #94FBAB;
+}
+
+li {
+	color: #A9FFF7;
+}
+
+h1 {
+	@import url(https://fonts.googleapis.com/css?family=Montserrat);
+}
+
+p, li {
+	import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+}
+
+#slogan {font-weight: 500;}
