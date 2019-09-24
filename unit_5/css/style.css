@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+
+body {
+	background-color: #82ABA1;
+	color: #94FBAB;
+}
+
+ul {
+	list-style: none;
+  	margin: 0;
+  	padding: 0;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	font-size: 3em;
+	text-transform: uppercase;
+    border-bottom: 4px solid black;
+  	display: inline-block;
+}
+}
+
+p {
+	font-family: 'EB Garamond', serif;
+	font-size: 14px;
+	line-height: 1.5em;
+}
+
+span {
+	font-style: bold;
+}
+
+footer {
+	text-align: center;
+	padding: 1em;
+	background-color: #FF957E;
+	}
+
+header {
+	background-color: #FFED74;
+}
+
+nav {
+	background-color: #E8C66A;
+}
+
+aside {
+	background-color: #FFC675;
+}
+
+article {
+	background-color: #E89C6C;
+}
+
+div, section {
+	background-color: #FFE2B8
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
