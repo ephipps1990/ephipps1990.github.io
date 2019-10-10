@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Lora|Montserrat&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
 
 body {
 	background-color: #404E4D;
@@ -21,9 +20,13 @@ h1 {
   	display: inline-block;
 }
 
+h2 {
+    font-size: 1.25em;
+}
+
 
 p {
-	font-family: 'EB Garamond', serif;
+	font-family: 'Lora', serif;
 	font-size: 14px;
 	line-height: 1.5em;
 }
@@ -39,12 +42,17 @@ footer {
 	}
 
 header {
-	background-color: #82ABA1;
     font-size: 5em;
+    text-align: center;
+    padding: 1em;
 }
 
 nav {
 	background-color: #63595C;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    text-align: right;
+
 }
 
 img {
@@ -59,7 +67,7 @@ img {
 }
 
 #left {
-    background-color: violet;
+    
     border: 1px black solid;
     padding: 20px;
     float: left;
@@ -67,7 +75,6 @@ img {
 }
 
 #right {
-    background-color: pink;
     border: 1px black solid;
     padding: 20px;
     float: right;   
