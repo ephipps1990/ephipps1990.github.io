@@ -103,10 +103,13 @@ img {
 
 
 @media only screen and (max-width: 262px) {
-    main {
+    #left {
         border: none;
-        font-size: .5em
-        
+        font-size: 1.5em
+    }
+    #right {
+        border: none;
+        font-size: 1.5em
     }
 }
 
