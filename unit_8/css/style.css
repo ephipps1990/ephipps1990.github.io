@@ -89,3 +89,27 @@ img {
     clear: both;
     height: 0;
 }
+
+
+@media only screen and (max-width: 1312px) {
+    #left {
+        float:none;
+    }
+    #right {
+        float: none;
+    }
+
+}
+
+
+@media only screen and (max-width: 262px) {
+    main {
+        border: none;
+        font-size: .5em
+        
+    }
+}
+
+
+
+
