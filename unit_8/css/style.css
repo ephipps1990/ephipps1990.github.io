@@ -12,14 +12,14 @@ main {
 h1 {
 	font-family: 'Montserrat', sans-serif;
 	text-align: center;
-	font-size: 3em;
+	font-size: 6em;
 	text-transform: uppercase;
     border-bottom: 4px solid black;
   	display: inline-block;
 }
 
 h2 {
-    font-size: 1.25em;
+    font-size: 4em;
 }
 
 p {
