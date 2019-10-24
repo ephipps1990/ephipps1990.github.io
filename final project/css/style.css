@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Montserrat&display=swap');
+
+body {
+	background-color: #404E4D;
+	color: #94FBAB;
+}
+
+main {
+    width: 80%;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	font-size: 6em;
+	text-transform: uppercase;
+    border-bottom: 4px solid black;
+  	display: inline-block;
+}
+
+h2 {
+    font-size: 4em;
+}
+
+p {
+	font-family: 'Lora', serif;
+	font-size: 14px;
+	line-height: 1.5em;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+
+footer {
+	text-align: center;
+	padding: 1em;
+	background-color: #646881;
+	}
+
+header {
+    font-size: 5em;
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+	background-color: #63595C;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    text-align: right;
+
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+@media only screen and (max-width: 1312px) {
+    #left {
+        float:none;
+    }
+    #right {
+        float: none;
+    }
+
+}
+
+
+@media only screen and (max-width: 262px) {
+    #left {
+        border: none;
+        font-size: 1.5em
+    }
+    #right {
+        border: none;
+        font-size: 1.5em
+    }
+}
+
+
+
+
