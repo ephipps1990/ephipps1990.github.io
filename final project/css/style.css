@@ -19,6 +19,14 @@ header {
     font-kerning: 4em;
 }
 
+#onboard{
+width:100%;
+height:100%;
+background: headergator.jpg 50% 0 no-repeat;
+background-size:cover;
+}
+
+
 h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.3em;
