@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Lora|Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 body {
 	background-color: #404E4D;
@@ -19,7 +20,7 @@ h1 {
 }
 
 h2 {
-    font-size: 4em;
+    font-size: 10em;
 }
 
 p {
@@ -58,8 +59,16 @@ nav {
 img {
   display: block;
   margin: 0 auto;
-  width: 100%;
 }
+
+#leftimage {
+    width: 30%;
+}
+
+#rightmage {
+    width: 30%;
+}
+
 
 #two_column {
     background-color: #FFB7CF;
