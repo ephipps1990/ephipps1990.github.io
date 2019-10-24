@@ -2,8 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 body {
-	background-color: #404E4D;
-	color: #94FBAB;
+	color: #404E4D;
 }
 
 main {
@@ -44,6 +43,7 @@ ul {
     margin: 1em;
     padding: 1em;
     font-size: 1em;
+    line-height: 1.5em;
   }
 
 
