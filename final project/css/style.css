@@ -20,8 +20,9 @@ header {
 }
 
 #headerimage {
-    width: 100%
-    height: 50%;
+    width: 100%;
+    padding-bottom: 5em;
+    padding-top: 5em;
 }
 
 h2 {
