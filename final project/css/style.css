@@ -79,14 +79,14 @@ img {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 30%;
+    width: 69%;
 }
 
 #right {
     border: 1px black solid;
     padding: 20px;
     float: right;   
-    width: 62%;
+    width: 69%;
 }
 
 .clearfix:after {
