@@ -3,6 +3,7 @@
 
 body {
 	color: #404E4D;
+    background-color: #C9FBFF
 }
 
 main {
@@ -47,11 +48,12 @@ footer {
 	text-align: center;
 	padding: 1em;
 	background-color: #646881;
+    font-color: #C9FBFF;
 	}
 
 nav {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.5em;
+    font-size: 16px;
     text-align: right;
 }
 
