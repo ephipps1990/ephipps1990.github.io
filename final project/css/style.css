@@ -61,11 +61,11 @@ img {
 }
 
 #leftimage {
-    width: 30%;
+    width: 80%;
 }
 
-#rightmage {
-    width: 30%;
+#rightimage {
+    width: 80%;
 }
 
 
@@ -79,14 +79,14 @@ img {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 69%;
+    width: 32%;
 }
 
 #right {
     border: 1px black solid;
     padding: 20px;
     float: right;   
-    width: 69%;
+    width: 32%;
 }
 
 .clearfix:after {
