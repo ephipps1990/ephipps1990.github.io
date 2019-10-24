@@ -19,22 +19,16 @@ header {
 }
 
 
-div.background {
+#background {
   background: url(images/headergator.jpg) repeat;
 }
  
-div.transbox {
+#transbox {
   margin: 50px;
   background-color: #ffffff;
   border: 1px solid black;
   opacity: 0.6;
   filter: alpha(opacity=60); 
-}
- 
-div.transbox p {
-  margin: 5%;
-  font-weight: bold;
-  color: #000000;
 }
 
 
