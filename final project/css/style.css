@@ -81,13 +81,13 @@ img {
 #left {
     padding: 20px;
     float: left;
-    width: 50%;
+    width: 35%;
 }
 
 #right {
     padding: 20px;
     float: right;   
-    width: 50%;
+    width: 35%;
 }
 
 .clearfix:after {
